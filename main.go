@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	proxy2 "go-mysql-proxy/proxy"
+	proxy2 "github.com/debarshibasak/go-mysql-proxy/proxy"
 	"log"
 	"os"
 	"os/signal"
