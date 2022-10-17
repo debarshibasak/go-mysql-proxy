@@ -2,7 +2,7 @@ package proxy
 
 import (
 	"fmt"
-	"go-mysql-proxy/protocol"
+	"github.com/debarshibasak/go-mysql-proxy/protocol"
 	"io"
 	"log"
 	"net"
