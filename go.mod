@@ -1,4 +1,4 @@
-module go-mysql-proxy
+module github.com/debarshibasak/go-mysql-proxy
 
 go 1.13
 
